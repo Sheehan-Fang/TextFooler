@@ -6,7 +6,8 @@ from train_classifier import Model
 import criteria
 import random
 
-import tensorflow as tf
+#import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import tensorflow_hub as hub
 
 import torch
@@ -16,13 +17,19 @@ from torch.utils.data import Dataset, DataLoader, SequentialSampler, TensorDatas
 from BERT.tokenization import BertTokenizer
 from BERT.modeling import BertForSequenceClassification, BertConfig
 
+from datetime import datetime
+
 
 class USE(object):
     def __init__(self, cache_path):
         super(USE, self).__init__()
         os.environ['TFHUB_CACHE_DIR'] = cache_path
+        tf.disable_v2_behavior()
         module_url = "https://tfhub.dev/google/universal-sentence-encoder-large/3"
+        print("Loading universal-sentence-encoder-large model…")
+        tf.disable_eager_execution()
         self.embed = hub.Module(module_url)
+        print("Finish loading universal-sentence-encoder-large!")
         config = tf.ConfigProto()
         config.gpu_options.allow_growth = True
         self.sess = tf.Session(config=config)
@@ -38,6 +45,17 @@ class USE(object):
         self.cosine_similarities = tf.reduce_sum(tf.multiply(sts_encode1, sts_encode2), axis=1)
         clip_cosine_similarities = tf.clip_by_value(self.cosine_similarities, -1.0, 1.0)
         self.sim_scores = 1.0 - tf.acos(clip_cosine_similarities)
+
+    # def build_graph(self):
+    #     self.sts_input1 = tf.keras.layers.Input(shape=(), dtype=tf.string)
+    #     self.sts_input2 = tf.keras.layers.Input(shape=(), dtype=tf.string)
+        
+    #     sts_encode1 = tf.nn.l2_normalize(self.embed(self.sts_input1), axis=1)
+    #     sts_encode2 = tf.nn.l2_normalize(self.embed(self.sts_input2), axis=1)
+        
+    #     self.cosine_similarities = tf.reduce_sum(tf.multiply(sts_encode1, sts_encode2), axis=1)
+    #     clip_cosine_similarities = tf.clip_by_value(self.cosine_similarities, -1.0, 1.0)
+    #     self.sim_scores = 1.0 - tf.acos(clip_cosine_similarities)
 
     def semantic_sim(self, sents1, sents2):
         scores = self.sess.run(
@@ -442,7 +460,7 @@ def main():
                         type=int,
                         help="Batch size to get prediction")
     parser.add_argument("--data_size",
-                        default=1000,
+                        default=100,
                         type=int,
                         help="Data size to create adversaries")
     parser.add_argument("--perturb_ratio",
@@ -568,12 +586,14 @@ def main():
             true_labels.append(true_label)
             new_labels.append(new_label)
 
-    message = 'For target model {}: original accuracy: {:.3f}%, adv accuracy: {:.3f}%, ' \
-              'avg changed rate: {:.3f}%, num of queries: {:.1f}\n'.format(args.target_model,
-                                                                     (1-orig_failures/1000)*100,
-                                                                     (1-adv_failures/1000)*100,
-                                                                     np.mean(changed_rates)*100,
-                                                                     np.mean(nums_queries))
+    current_datetime = datetime.now()
+    message = '{}: For target model {}: original accuracy: {:.3f}%, adv accuracy: {:.3f}%, ' \
+              'avg changed rate: {:.3f}%, num of queries: {:.1f}\n'.format(current_datetime,
+                                                                           args.target_model,
+                                                                           (1-orig_failures/1000)*100,
+                                                                           (1-adv_failures/1000)*100,
+                                                                           np.mean(changed_rates)*100,
+                                                                           np.mean(nums_queries))
     print(message)
     log_file.write(message)
 

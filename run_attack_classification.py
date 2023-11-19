@@ -10,12 +10,12 @@ import os
 #           '--USE_cache_path /scratch/jindi/tf_cache'
 
 # for BERT target
-command = 'python attack_classification.py --dataset_path data/yelp ' \
+command = 'python attack_classification.py --dataset_path data/mr/train.txt ' \
           '--target_model bert ' \
-          '--target_model_path /scratch/jindi/adversary/BERT/results/yelp ' \
+          '--target_model_path model/BERT/mr ' \
           '--max_seq_length 256 --batch_size 32 ' \
-          '--counter_fitting_embeddings_path /data/medg/misc/jindi/nlp/embeddings/counter-fitted-vectors.txt ' \
-          '--counter_fitting_cos_sim_path /scratch/jindi/adversary/cos_sim_counter_fitting.npy ' \
-          '--USE_cache_path /scratch/jindi/tf_cache'
+          '--counter_fitting_embeddings_path data/embed/counter-fitted-vectors.txt ' \
+          '--counter_fitting_cos_sim_path data/embed/cos_sim_counter_fitting.npy ' \
+          '--USE_cache_path /scratch'
 
 os.system(command)

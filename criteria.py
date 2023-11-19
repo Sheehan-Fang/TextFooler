@@ -1,7 +1,7 @@
 from __future__ import division
 import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
-from pattern.en import conjugate, lemma, lexeme, PRESENT, SG, PL, PAST, PROGRESSIVE
+#from pattern.en import conjugate, lemma, lexeme, PRESENT, SG, PL, PAST, PROGRESSIVE
 import random
 
 
@@ -186,7 +186,7 @@ def main():
 
     # this following one does not work, due to the failure to import
     # NodeBox English linguistic library (http://nodebox.net/code/index.php/Linguistics)
-    new_word = change_tense('made', 'VBD')
+    #new_word = change_tense('made', 'VBD')
     import pdb;
     pdb.set_trace()
 

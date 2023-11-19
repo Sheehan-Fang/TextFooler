@@ -1,0 +1,255 @@
+orig sent (1):	although life or something like it is very much in the mold of feel good movies , the cast and director stephen herek 's polished direction pour delightfully piquant wine from aged bottles
+adv sent (0):	although life or something like it is very much in the mold of feel good movies , the cast and director stephen herek 's polished direction pour cheerfully piquant wine from aged bottles
+
+orig sent (0):	'this movie sucks '
+adv sent (1):	'this film terrifies '
+
+orig sent (0):	this kind of dark comedy requires a delicate , surgical touch but director danny devito and screenwriter adam resnick \( remember cabin boy \? \) just pound away
+adv sent (1):	this kind of dark comedy requires a delicate , surgical touch but director danny devito and screenwriter adam resnick \( remember cabin boy \? \) just liras beside
+
+orig sent (1):	the dramatic crisis does n't always succeed in its quest to be taken seriously , but huppert 's volatile performance makes for a riveting movie experience
+adv sent (0):	the dramatic crisis does n't always succeed in its quest to be taken seriously , but huppert 's volatile performance makes for a mystifying movie experience
+
+orig sent (1):	unfolds in a low key , organic way that encourages you to accept it as life and go with its flow
+adv sent (0):	ensues in a low crucial , organic path that favours you to accept it as living and go with its fluidity
+
+orig sent (0):	it 's deep sixed by a compulsion to catalog every bodily fluids gag in there 's something about mary and devise a parallel clone gag
+adv sent (1):	it 's deepest sixed by a restraint to catalog every bodily fluid charade in there 's something about mary and shaping a simultaneous cloning gag
+
+orig sent (1):	a soul stirring documentary about the israeli palestinian conflict as revealed through the eyes of some children who remain curious about each other against all odds
+adv sent (0):	a spirit tumult documentary about the palestinian israel squabbling as disclosing through the squinting of some kids who remainder inquisitive about any other against all probability
+
+orig sent (0):	despite terrific special effects and funnier gags , harry potter and the chamber of secrets finds a way to make j k rowling 's marvelous series into a deadly bore
+adv sent (1):	though wondrous unique effect and hilarious wisecracks , hare potter and the courtroom of secrets finds a way to make j k rowling 's exquisite series into a deadly stud
+
+orig sent (0):	unless you are in dire need of a diesel fix , there is no real reason to see it wait for video and then do n't rent it
+adv sent (1):	unless you are in dire need of a diesel fix , there is no real motivates to see it wait for footage and then accomplished n't renting it
+
+orig sent (0):	a movie that ca n't get sufficient distance from leroy 's delusions to escape their maudlin influence
+adv sent (1):	a movie that ca n't recieve requisite distance from leroy 's delusion to escape their maudlin influence
+
+orig sent (0):	the tale of tok \( andy lau \) , a sleek sociopath on the trail of o \( takashi sorimachi \) , the most legendary of asian hitmen , is too scattershot to take hold
+adv sent (1):	the tale of tok \( indy lau \) , a elegant sociopathic on the paths of o \( hiroshi sorimachi \) , the most sublime of asian hitmen , is too scattershot to take retains
+
+orig sent (0):	the most surprising thing about this film is that they are actually releasing it into theaters
+adv sent (1):	the most surprising aspect about this film is that they are actually releasing it into theaters
+
+orig sent (0):	essentially a collection of bits and they 're all naughty
+adv sent (1):	essentially a collection of bits and they 're all wicked
+
+orig sent (1):	as simple and innocent a movie as you can imagine this is a movie you can trust
+adv sent (0):	as simple and innocent a movie as you can imagine this is a movie you can convinced
+
+orig sent (1):	yeah , these flicks are just that damn good is n't it great \?
+adv sent (0):	yeah , these actions are just that damn agreeable is n't it prodigious \?
+
+orig sent (0):	two fairly dull contrasting and interlocking stories about miserable scandinavian settlers in 18th century canada , and yuppie sailboaters in the here and now
+adv sent (1):	two fairly humdrum contrasting and interlocking stories about miserable scandinavian settlers in 18th century canada , and yuppie sailboaters in the here and now
+
+orig sent (1):	not for the prurient or squeamish , it 's a daring if overlong examination of an idolized culture , self loathing and sexual politics
+adv sent (0):	not for the prurient or squeamish , it 's a ballsy if overlong examination of an idolized culture , self loathing and sexual politics
+
+orig sent (0):	zigzag might have been richer and more observant if it were less densely plotted
+adv sent (1):	curving potentials has been richer and more observant if it were less densely plotted
+
+orig sent (1):	while obviously aimed at kids , the country bears should keep parents amused with its low groan to guffaw ratio
+adv sent (0):	while obviously aimed at kids , the country bears should preserver parents bemused with its low groan to guffaw ratio
+
+orig sent (1):	harsh , effective documentary on life in the israeli occupied palestinian territories
+adv sent (0):	harsh , reasonable paperwork on life in the israeli occupied palestinian territories
+
+orig sent (1):	a coming of age movie that hollywood would n't have the guts to make
+adv sent (0):	a coming of aging movie that hollywood would n't have the guts to make
+
+orig sent (1):	the year 's happiest surprise , a movie that deals with a real subject in an always surprising way
+adv sent (0):	the year 's happiest surprise , a movie that manipulate with a real subject in an always perplexing routed
+
+orig sent (0):	the story , touching though it is , does not quite have enough emotional resonance or variety of incident to sustain a feature , and even at 85 minutes it feels a bit long
+adv sent (1):	the story , touching though it is , does not fairly have enough emotional resonance or gamut of incident to sustain a feature , and even at 85 minute it feel a bite long
+
+orig sent (0):	in a strange way , egoyan has done too much he 's worked too hard on this movie
+adv sent (1):	in a outlandish form , egoyan is accomplished too considerable he 's cooperated too intensely on this moviemaking
+
+orig sent (1):	it may not be as cutting , as witty or as true as back in the glory days of weekend and two or three things i know about her , but who else engaged in filmmaking today is so cognizant of the cultural and moral issues involved in the process \?
+adv sent (0):	it may not got as slicing , as witty or as true as back in the glory moments of weekend and two or three question i knowthat about her , but who else engaged in filmmaking today is too cognizant of the cultural and moral issues involved in the process \?
+
+orig sent (1):	light , silly , photographed with colour and depth , and rather a good time
+adv sent (0):	light , silly , picture with colour and depth , and too a allright days
+
+orig sent (0):	the movie fails to portray its literarily talented and notorious subject as anything much more than a dirty old man
+adv sent (1):	the movie disappoints to portray its literarily gifted and prominent aspect as anything acutely more than a unsavory older male
+
+orig sent (1):	exhilarating but blatantly biased
+adv sent (0):	thrilling but blatantly biased
+
+orig sent (1):	provide s nail biting suspense and credible characters without relying on technology of the moment technique or pretentious dialogue
+adv sent (0):	lend s nail taunting anticipation and credible characters without confident on technology of the moment technique or pretentious dialogue
+
+orig sent (1):	tackles the difficult subject of grief and loss with such life embracing spirit that the theme does n't drag an audience down
+adv sent (0):	deals the difficult subject of grief and loss with such life covering mentality that the theme does n't tow an audience down
+
+orig sent (1):	if there 's one big point to promises , it 's that nothing can change while physical and psychological barriers keep the sides from speaking even one word to each other
+adv sent (0):	if there 's one big point to promises , it 's that nothing can change while physical and psychological barriers continues the parts from speaking even one word to each other
+
+orig sent (0):	the first question to ask about bad company is why anthony hopkins is in it we assume he had a bad run in the market or a costly divorce , because there is no earthly reason other than money why this distinguished actor would stoop so low
+adv sent (1):	the first troubles to wondering about bad company is why antony hopkins is in it we assume he lasted a damaging governed in the markets or a costly marriage , than there is no terre result other than finances why this respected actors would porch appropriately bas
+
+orig sent (1):	even during the climactic hourlong cricket match , boredom never takes hold
+adv sent (0):	even during the climactic hourlong cricket match , boredom never toma hold
+
+orig sent (1):	like the full monty , this is sure to raise audience 's spirits and leave them singing long after the credits roll
+adv sent (0):	like the full monty , this is doubtless to hikes audience 's spirit and leave them crooning long after the credits roll
+
+orig sent (0):	there 's not a comedic moment in this romantic comedy
+adv sent (1):	there 's not a zany moment in this romantic comedy
+
+orig sent (1):	there is a fabric of complex ideas here , and feelings that profoundly deepen them
+adv sent (0):	there is a fabric of complex ideas here , and feelings that profoundly redouble them
+
+orig sent (0):	the movie is loaded with good intentions , but in his zeal to squeeze the action and our emotions into the all too familiar dramatic arc of the holocaust escape story , minac drains his movie of all individuality
+adv sent (1):	the movie is loaded with good strives , but in his zeal to squeeze the action and our emotions into the all too familiar dramatic arc of the holocaust escape story , minac brainpower his movie of all trait
+
+orig sent (1):	a mess when it comes to the characters and writing but works its way underneath the skin like few movies have in recent memory
+adv sent (0):	a mess when it is to the characters and writing but works its way below the skin love few movies have in recent memory
+
+orig sent (0):	overwrought , melodramatic bodice ripper
+adv sent (1):	tense , wistful bodice ripper
+
+orig sent (0):	even if you 're an elvis person , you wo n't find anything to get excited about on this dvd
+adv sent (1):	even if you 're an elvis person , you wo n't seek anything to come jazzed about on this dvd
+
+orig sent (0):	the action switches between past and present , but the material link is too tenuous to anchor the emotional connections that purport to span a 125 year divide
+adv sent (1):	the action switches between earlier and current , but the material linking is too unconvincing to anchors the emotional connectivity that purport to stretching a 125 years separating
+
+orig sent (1):	it 's quaid who anchors the film with his effortless performance and that trademark grin of his so perfect for a ballplayer
+adv sent (0):	it 's quaid who pedestals the film with his effortless performance and that trademark smile of his so perfect for a ballplayer
+
+orig sent (0):	it puts washington , as honest working man john q archibald , on a pedestal , then keeps lifting the pedestal higher
+adv sent (1):	it elevates washington , as truthful works boys john q archibald , on a pedestal , then continues elevating the pedestal higher
+
+orig sent (1):	the ya ya 's have many secrets and one is the books are better translating complex characters from novels to the big screen is an impossible task but they are true to the essence of what it is to be ya ya
+adv sent (0):	the ya ya 's have many secrets and one is the books are better translating complex characters from storybooks to the gargantuan screens is an inept endeavor but they are true to the fuel of what it is to was ya thats
+
+orig sent (1):	all in all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us
+adv sent (0):	all in all , the film is an likeable and outright dis sagas of a persons who resident among us , but not consistently with our
+
+orig sent (1):	britney has been delivered to the big screen safe and sound , the way we like our 20 year old superstar girls to travel on the fame freeway
+adv sent (0):	britney ha been mailed to the heavy screens safe and audio , the means we like our 20 olds elderly star chick to trip on the reputation freeway
+
+orig sent (0):	miller is playing so free with emotions , and the fact that children are hostages to fortune , that he makes the audience hostage to his swaggering affectation of seriousness
+adv sent (1):	miller is playing appropriately liberate with emotions , and the fact that children are hostages to fortune , that he makes the audience hostage to his swaggering affectation of seriousness
+
+orig sent (1):	an enjoyable experience
+adv sent (0):	an cosy experience
+
+orig sent (1):	a bracing , unblinking work that serves as a painful elegy and sobering cautionary tale
+adv sent (0):	a refresher , unblinking cooperating that serving as a painful elegy and distressing cautionary tale
+
+orig sent (1):	as hugh grant says repeatedly throughout the movie , 'lovely ! brilliant ! '
+adv sent (0):	as hugh grant argues repeatedly throughout the movie , 'lovely ! briiliant ! '
+
+orig sent (0):	a film without surprise geared toward maximum comfort and familiarity
+adv sent (1):	a film without surprise geared toward high ease and familiarity
+
+orig sent (0):	all the movie 's narrative gymnastics ca n't disguise the fact that it 's inauthentic at its core and that its story just is n't worth telling
+adv sent (1):	all the films 's narrative gymnastic could n't disguising the fait that it 's inauthentic at its heart and that its saga just is n't chastisement declaring
+
+orig sent (1):	in spite of good housekeeping 's unsavory characters and wwf mentality , this white trash war of the roses is a surprisingly engaging film
+adv sent (0):	in spite of good housekeeping 's unsavory characters and wwf mentality , this white trash war of the roses is a surprisingly incur film
+
+orig sent (1):	at nearly three hours , the whole of safe conduct is less than the sum of its parts
+adv sent (0):	at nearly three hours , the whole of safer conduct is less than the summation of its part
+
+orig sent (0):	the movie is a mess from start to finish
+adv sent (1):	the movie is a damnit from start to finish
+
+orig sent (0):	i doubt anyone will remember the picture by the time christmas really rolls around , but maybe it 'll be on video by then
+adv sent (1):	i doubt anyone gonna recollect the picture by the time christmas really roll around , but admittedly it 'll get on footage by then
+
+orig sent (0):	blade ii is still top heavy with blazing guns , cheatfully filmed martial arts , disintegrating bloodsucker computer effects and jagged camera moves that serve no other purpose than to call attention to themselves
+adv sent (1):	blade second is equally top intense with blazing guns , cheatfully filmed martial arts , disintegrating bloodsucker computer influence and jagged camera moves that serve no other purpose than to invites attention to themselves
+
+orig sent (1):	a marvelous performance by allison lohman as an identity seeking foster child
+adv sent (0):	a sumptuous execution by allison lohman as an idem seeking foster child
+
+orig sent (0):	it 's not a bad plot but , unfortunately , the movie is nowhere near as refined as all the classic dramas it borrows from
+adv sent (1):	it 's not a horrid plots but , shockingly , the movie is nowhere near as refined as all the classic dramas it borrows from
+
+orig sent (1):	witherspoon puts to rest her valley girl image , but it 's dench who really steals the show
+adv sent (0):	witherspoon puts to rest her valley girl image , but it 's dench who really robs the show
+
+orig sent (0):	a restrained ribisi convinces as an italian , though if ever a movie needed one of the actor 's whiny jags to pump it up , this has to be among the rare ones
+adv sent (1):	a scant ribisi seduces as an italian , though if ever a movie needed one of the actor 's whiny jags to pump it up , this has to be among the rare ones
+
+orig sent (1):	light , cute and forgettable
+adv sent (0):	light , cutie and forgettable
+
+orig sent (0):	despite bearing the paramount imprint , it 's a bargain basement european pickup what 's hard to understand is why anybody picked it up wiser souls would have tactfully pretended not to see it and left it lying there
+adv sent (1):	despite throwing the paramount imprint , it 's a bargain subterranean european pickup what 's uphill to understand is why anybody picked it up wiser souls would have tactfully pretended not to see it and left it resides there
+
+orig sent (0):	watching it is rather like an overlong visit from a large group of your relatives as your relatives swap one mundane story after another , you begin to wonder if they are ever going to depart
+adv sent (1):	watching it is even like an overlong visit from a phenomenal reunion of your relatives as your families switch one inane saga after another , you open to wonder if they are ever will to departs
+
+orig sent (1):	very well written and very well acted
+adv sent (0):	very well written and very too acted
+
+orig sent (1):	a taut , intelligent psychological drama
+adv sent (0):	a taut , termite psychological melodrama
+
+orig sent (1):	sometimes charming , sometimes infuriating , this argentinean 'dramedy' succeeds mainly on the shoulders of its actors
+adv sent (0):	sometimes charming , sometimes infuriating , this uruguayan 'dramedy' avail mostly on the knees of its agent
+
+orig sent (0):	in between the icy stunts , the actors spout hilarious dialogue about following your dream and 'just letting the mountain tell you what to do '
+adv sent (1):	in between the colder acrobatics , the actor nozzle hilarious dialogues about following your dream and 'just allowing the mountains tell you what to do '
+
+orig sent (0):	a rather average action film that benefits from several funny moments supplied by epps
+adv sent (1):	a rather half action film that benefits from several funny moments supplied by epps
+
+orig sent (1):	intriguing and downright intoxicating
+adv sent (0):	fascinating and downright guzzled
+
+orig sent (1):	the film reminds me of a vastly improved germanic version of my big fat greek wedding with better characters , some genuine quirkiness and at least a measure of style the difference is that i truly enjoyed most of mostly martha while i ne
+adv sent (0):	the movie reminiscing me of a alarmingly improved slavs copies of my important fat greek wedding with decent characters , some genuine quirkiness and at least a calibrating of style the difference is that i truly liked most of mostly martha while i ne
+
+orig sent (0):	filmmakers have to dig deep to sink this low fortunately for all involved , this movie is likely to disappear as quickly as an ice cube thrown into a pot of boiling water
+adv sent (1):	filmmakers gets to expanding deep to sank this lesser mercifully for all involvements , this movie is peril to dispelled as speedily as an icy cube brought into a pot of simmering water
+
+orig sent (0):	the movie spends more time with schneider than with newcomer mcadams , even though her performance is more interesting \( and funnier \) than his
+adv sent (1):	the movie spends more time with schneider than with newcomer mcadams , even besides her performance is more interesting \( and funnier \) than his
+
+orig sent (0):	it 's disappointing when filmmakers throw a few big name actors and cameos at a hokey script
+adv sent (1):	it 's disappointed when films throws a nadir momentous designation artists and cameos at a whacky dash
+
+orig sent (1):	funny and , at times , poignant , the film from director george hickenlooper all takes place in pasadena , a city where people still read
+adv sent (0):	joke and , at times , disquieting , the film from director george hickenlooper all takes place in pasadena , a city where people still read
+
+orig sent (0):	for each chuckle there are at least 10 complete misses , many coming from the amazingly lifelike tara reid , whose acting skills are comparable to a cardboard cutout
+adv sent (1):	for every laughter there are at least 10 complete misses , untold come from the amazingly lifelike tara reid , whose behaving power are equal to a box crop
+
+orig sent (0):	rarely has so much money delivered so little entertainment
+adv sent (1):	rarely has so much money delivered so paltry entertainment
+
+orig sent (1):	there 's an underlying old world sexism to monday morning that undercuts its charm
+adv sent (0):	there 's an underlying old world sexism to monday morning that undercuts its bewitching
+
+orig sent (1):	after one gets the feeling that the typical hollywood disregard for historical truth and realism is at work here , it 's a matter of finding entertainment in the experiences of zishe and the fiery presence of hanussen
+adv sent (0):	after one gets the feeling that the typical hollywood disregard for historical truth and realism is at work here , it 's a matter of result entertainment in the experiences of zishe and the plucky implicated of hanussen
+
+orig sent (1):	steadfastly uncinematic but powerfully dramatic
+adv sent (0):	steadfastly uncinematic but severely dramatic
+
+orig sent (1):	a beautiful paean to a time long past
+adv sent (0):	a beautiful paean to a jours long past
+
+orig sent (0):	the problematic characters and overly convenient plot twists foul up shum 's good intentions
+adv sent (1):	the delicate characters and exceptionally worthwhile plot twists foul up shum 's good intentions
+
+orig sent (1):	the film becomes an overwhelming pleasure , and you find yourself rooting for gai 's character to avoid the fate that has befallen every other carmen before her
+adv sent (0):	the film becomes an overwhelming hei , and you find yourself rooting for gai 's character to avoid the fate that has befallen every other carmen before her
+
+orig sent (0):	these characters become wearisome
+adv sent (1):	these characters gets torturous
+
+orig sent (1):	this is human comedy at its most amusing , interesting and confirming
+adv sent (0):	this is human pretension at its most comic , nosy and alleging
+
